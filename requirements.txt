@@ -1,0 +1,14 @@
+ultralytics>=8.3.0
+torch>=2.1.0
+torchvision>=0.16.0
+opencv-python
+albumentations
+matplotlib
+numpy
+pandas
+pyyaml
+scikit-learn
+seaborn
+pillow
+tqdm
+python-docx
